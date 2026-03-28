@@ -18,7 +18,10 @@ jobs:
           python-version: "3.x"
 
       - name: Generate Oguri SVG
-        run: python generate_oguri.py
+        run: |
+          mkdir -p public
+          python generate_oguri.py
+          mv oguri-run.svg public/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v5

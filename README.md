@@ -1,6 +1,6 @@
 # Hi there, I'm Quang! 👋
 
-![Oguri Run](https://raw.githubusercontent.com/mquangpham575/mquangpham575/output/oguri-run.svg)
+![Oguri Run](https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg)
 
 ---
 

@@ -85,8 +85,8 @@ def generate_oguri_gourmet_svg(
         data_uri1 = f"data:image/png;base64,{encoded1}"
         data_uri2 = f"data:image/png;base64,{encoded2}"
 
-    WIDTH = 800
-    HEIGHT = 160
+    WIDTH = 700
+    HEIGHT = 110
     CELL_SIZE = 15
     GAP = 5
     BLOCK_W = CELL_SIZE + GAP
@@ -110,7 +110,7 @@ def generate_oguri_gourmet_svg(
         has_commit = [random.random() > 0.3 for _ in range(active_cols)]
         counts = [random.randint(1, 10) if h else 0 for h in has_commit]
 
-    run_distance = active_cols * BLOCK_W
+    run_distance = WIDTH + 50
 
     travel_distance = run_distance - 40
 
@@ -125,8 +125,10 @@ def generate_oguri_gourmet_svg(
             mouth_1_keyframes.append(f"{start_pct}% {{ opacity: 0; }}")
             mouth_2_keyframes.append(f"{start_pct}% {{ opacity: 1; }}")
 
-    mouth_1_keyframes.append("100% { opacity: 0; }")
-    mouth_2_keyframes.append("100% { opacity: 1; }")
+    last_commit_pct = (active_cols * BLOCK_W / float(travel_distance)) * 100
+
+    mouth_1_keyframes.append(f"{last_commit_pct + 0.01}% {{ opacity: 0; }}")
+    mouth_2_keyframes.append(f"{last_commit_pct + 0.01}% {{ opacity: 1; }}")
 
     mouth_1_str = " ".join(mouth_1_keyframes)
     mouth_2_str = " ".join(mouth_2_keyframes)

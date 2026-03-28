@@ -65,6 +65,8 @@
 
 #### 🔧 Tools & Utilities
 
+<img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="150" align="right" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -72,7 +74,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
-[![Approved](https://img.shields.io/badge/-Approved-10B981?style=for-the-badge&logo=checkmark&logoColor=white)](https://github.com/mquangpham575)
 
 ---

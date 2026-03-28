@@ -18,7 +18,10 @@ jobs:
           python-version: "3.x"
 
       - name: Generate Oguri SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          pip install requests
           mkdir -p public
           python generate_oguri.py
           mv oguri-run.svg public/

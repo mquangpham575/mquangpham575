@@ -1,18 +1,20 @@
-# Hi there, I'm Quang! 👋
-
 ### Last 30 days commits
 
 ![Oguri Run](https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg)
 
----
+## Basic Info
 
-I'm a **DevOps Engineer** and **Fullstack Developer** passionate about building scalable microservices, automating infrastructure, and creating seamless user experiences.
+- 🎯 Goal: Become a DevOps Engineer with expertise in cloud computing and automation
+- 💻 Love figuring out how to make things run smoother, faster, and with less manual work.
+- 🎮 Into modding and customizing stuff - ricing my setup
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=6aa84f&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Live+Larp+Love" alt="Typing Animation" />
+</div>
 
 ---
 
 ### 🛠 Technologies & Tools
-
-I have worked with a diverse set of technologies across various domains, ranging from web development to cloud infrastructure and automation.
 
 #### 🌐 Frontend Development
 
@@ -23,6 +25,7 @@ I have worked with a diverse set of technologies across various domains, ranging
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  
 </p>
 
 #### ⚙️ Backend Development
@@ -70,10 +73,6 @@ I have worked with a diverse set of technologies across various domains, ranging
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="120" style="position: absolute; right: 50px; margin-top: -90px; transform: rotate(20deg);" />
+
 ---
-
-_“Live larp love.”_ <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/lain.png" width="30" />
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="200" />
-</p>

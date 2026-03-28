@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="80" />
-</p>
-
 # Hi there, I'm Quang! 👋
 
 ### Last 30 days commits
@@ -76,4 +72,8 @@ I have worked with a diverse set of technologies across various domains, ranging
 
 ---
 
-_“Live larp love.”_ 🚀
+_“Live larp love.”_ <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/lain.png" width="30" />
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="200" />
+</p>

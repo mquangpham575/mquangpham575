@@ -73,6 +73,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="120" style="position: absolute; right: 50px; margin-top: -90px; transform: rotate(20deg);" />
+[![Approved](https://img.shields.io/badge/-Approved-10B981?style=for-the-badge&logo=checkmark&logoColor=white)](https://github.com/mquangpham575)
 
 ---

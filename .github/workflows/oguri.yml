@@ -20,11 +20,10 @@ jobs:
       - name: Generate Oguri SVG
         run: python generate_oguri.py
 
-      - name: Push to Output Branch
-        uses: crazy-max/githubaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          target_branch: output
-          build_dir: .
-          fqdn: ""
+          target_branch: gh-pages
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

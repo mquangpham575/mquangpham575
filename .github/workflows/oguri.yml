@@ -2,7 +2,7 @@ name: Generate Oguri Run
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
+    - cron: "0 * * * *" # Runs every hour
   push:
     branches:
       - main

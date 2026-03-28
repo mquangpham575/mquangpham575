@@ -45,25 +45,21 @@ def get_real_contributions(username, token):
             day for week in calendar["weeks"] for day in week["contributionDays"]
         ]
 
-        # Get days for the current month
+        # Get last 30 days
         now = datetime.now()
-        current_month_str = now.strftime("%Y-%m")
-        this_month_days = [
-            d for d in all_days if d["date"].startswith(current_month_str)
-        ]
+        from datetime import timedelta
 
-        # We only need up to today for the animation
-        today_str = now.strftime("%Y-%m-%d")
+        thirty_days_ago = now - timedelta(days=30)
         processed_days = []
-        for d in this_month_days:
-            processed_days.append(
-                {
-                    "count": d["contributionCount"],
-                    "has_commit": d["contributionCount"] > 0,
-                }
-            )
-            if d["date"] == today_str:
-                break
+        for d in all_days:
+            day_date = datetime.strptime(d["date"], "%Y-%m-%d")
+            if thirty_days_ago <= day_date <= now:
+                processed_days.append(
+                    {
+                        "count": d["contributionCount"],
+                        "has_commit": d["contributionCount"] > 0,
+                    }
+                )
         return processed_days
     except Exception as e:
         print(f"Error fetching contributions: {e}")
@@ -106,7 +102,7 @@ def generate_oguri_gourmet_svg(
         import random
 
         random.seed(now.strftime("%Y%m%d"))
-        active_cols = now.day
+        active_cols = 30
         has_commit = [random.random() > 0.3 for _ in range(active_cols)]
         counts = [random.randint(1, 10) if h else 0 for h in has_commit]
 
@@ -194,7 +190,7 @@ def generate_oguri_gourmet_svg(
     <g class="oguri-container" transform="translate(0, 10)">
         <g class="oguri-bounce-layer">
             <g transform="translate(80, 0) scale(-1, 1)">
-                <image class="oguri-1" xlink:href="{data_uri1}" width="80" height="100" x="0" y="18" />
+                <image class="oguri-1" xlink:href="{data_uri1}" width="100" height="120" x="0" y="0" />
                 <image class="oguri-2" xlink:href="{data_uri2}" width="80" height="100" x="0" y="10" />
             </g>
             <text x="5" y="-5" class="text" fill="#58A6FF">OGURI :: {now.strftime("%b %d")}</text>

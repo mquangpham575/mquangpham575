@@ -1,4 +1,10 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/main/assets/seal_of_approval.png" width="80" />
+</p>
+
 # Hi there, I'm Quang! 👋
+
+### Last 30 days commits
 
 ![Oguri Run](https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg)
 

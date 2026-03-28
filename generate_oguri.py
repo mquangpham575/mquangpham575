@@ -81,7 +81,7 @@ def generate_oguri_gourmet_svg(
         data_uri1 = f"data:image/png;base64,{encoded1}"
         data_uri2 = f"data:image/png;base64,{encoded2}"
 
-    WIDTH = 900
+    WIDTH = 1100
     HEIGHT = 110
     CELL_SIZE = 15
     GAP = 5

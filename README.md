@@ -1,6 +1,8 @@
 ### Last 30 days commits
 
-![Oguri Run](https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg" alt="Oguri Run" />
+</p>
 
 ## Basic Info
 

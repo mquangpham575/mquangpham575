@@ -21,13 +21,12 @@ jobs:
           python-version: "3.x"
 
       - name: Generate Oguri SVG
+        uses: mquangpham575/oguri-action@main
+        with:
+          github_user_name: mquangpham575
+          outputs: public/oguri-run.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          pip install requests
-          mkdir -p public
-          python generate_oguri.py
-          mv oguri-run.svg public/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v5

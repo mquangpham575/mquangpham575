@@ -46,7 +46,7 @@ def get_contributions():
     
     query = """
     query($from: DateTime!, $to: DateTime!) {
-      viewer {
+      user(login: "mquangpham575") {
         contributionsCollection(from: $from, to: $to) {
           contributionCalendar {
             weeks {
@@ -69,7 +69,7 @@ def get_contributions():
             return [0] * 30
             
         days = []
-        weeks = data['data']['viewer']['contributionsCollection']['contributionCalendar']['weeks']
+        weeks = data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']
         level_map = {"NONE": 0, "FIRST_QUARTILE": 1, "SECOND_QUARTILE": 2, "THIRD_QUARTILE": 3, "FOURTH_QUARTILE": 4}
         
         for week in weeks:

@@ -89,14 +89,14 @@
     17.75% { opacity: 0; }
     18.00% { opacity: 0; }
     18.25% { opacity: 0; }
-    18.50% { opacity: 0; }
-    18.75% { opacity: 0; }
-    19.00% { opacity: 0; }
-    19.25% { opacity: 0; }
-    19.50% { opacity: 0; }
-    19.75% { opacity: 0; }
-    20.00% { opacity: 0; }
-    20.25% { opacity: 0; }
+    18.50% { opacity: 1; }
+    18.75% { opacity: 1; }
+    19.00% { opacity: 1; }
+    19.25% { opacity: 1; }
+    19.50% { opacity: 1; }
+    19.75% { opacity: 1; }
+    20.00% { opacity: 1; }
+    20.25% { opacity: 1; }
     20.50% { opacity: 1; }
     20.75% { opacity: 1; }
     21.00% { opacity: 1; }
@@ -166,14 +166,14 @@
     37.00% { opacity: 1; }
     37.25% { opacity: 1; }
     37.50% { opacity: 1; }
-    37.75% { opacity: 0; }
-    38.00% { opacity: 0; }
-    38.25% { opacity: 0; }
-    38.50% { opacity: 0; }
-    38.75% { opacity: 0; }
-    39.00% { opacity: 0; }
-    39.25% { opacity: 0; }
-    39.50% { opacity: 0; }
+    37.75% { opacity: 1; }
+    38.00% { opacity: 1; }
+    38.25% { opacity: 1; }
+    38.50% { opacity: 1; }
+    38.75% { opacity: 1; }
+    39.00% { opacity: 1; }
+    39.25% { opacity: 1; }
+    39.50% { opacity: 1; }
     39.75% { opacity: 0; }
     40.00% { opacity: 0; }
     40.25% { opacity: 0; }
@@ -248,19 +248,19 @@
     57.50% { opacity: 1; }
     57.75% { opacity: 1; }
     58.00% { opacity: 1; }
-    58.25% { opacity: 0; }
-    58.50% { opacity: 0; }
-    58.75% { opacity: 0; }
-    59.00% { opacity: 0; }
-    59.25% { opacity: 0; }
-    59.50% { opacity: 0; }
-    59.75% { opacity: 0; }
-    60.00% { opacity: 0; }
-    60.25% { opacity: 0; }
-    60.50% { opacity: 0; }
-    60.75% { opacity: 0; }
-    61.00% { opacity: 0; }
-    61.25% { opacity: 0; }
+    58.25% { opacity: 1; }
+    58.50% { opacity: 1; }
+    58.75% { opacity: 1; }
+    59.00% { opacity: 1; }
+    59.25% { opacity: 1; }
+    59.50% { opacity: 1; }
+    59.75% { opacity: 1; }
+    60.00% { opacity: 1; }
+    60.25% { opacity: 1; }
+    60.50% { opacity: 1; }
+    60.75% { opacity: 1; }
+    61.00% { opacity: 1; }
+    61.25% { opacity: 1; }
     61.50% { opacity: 1; }
     61.75% { opacity: 1; }
     62.00% { opacity: 1; }
@@ -297,11 +297,11 @@
     69.75% { opacity: 1; }
     70.00% { opacity: 1; }
     70.25% { opacity: 1; }
-    70.50% { opacity: 1; }
-    70.75% { opacity: 1; }
-    71.00% { opacity: 1; }
-    71.25% { opacity: 1; }
-    71.50% { opacity: 1; }
+    70.50% { opacity: 0; }
+    70.75% { opacity: 0; }
+    71.00% { opacity: 0; }
+    71.25% { opacity: 0; }
+    71.50% { opacity: 0; }
     71.75% { opacity: 1; }
     72.00% { opacity: 1; }
     72.25% { opacity: 1; }
@@ -330,14 +330,14 @@
     78.00% { opacity: 1; }
     78.25% { opacity: 1; }
     78.50% { opacity: 1; }
-    78.75% { opacity: 0; }
-    79.00% { opacity: 0; }
-    79.25% { opacity: 0; }
-    79.50% { opacity: 0; }
-    79.75% { opacity: 0; }
-    80.00% { opacity: 0; }
-    80.25% { opacity: 0; }
-    80.50% { opacity: 0; }
+    78.75% { opacity: 1; }
+    79.00% { opacity: 1; }
+    79.25% { opacity: 1; }
+    79.50% { opacity: 1; }
+    79.75% { opacity: 1; }
+    80.00% { opacity: 1; }
+    80.25% { opacity: 1; }
+    80.50% { opacity: 1; }
     80.75% { opacity: 0; }
     81.00% { opacity: 0; }
     81.25% { opacity: 0; }
@@ -492,14 +492,14 @@
     17.75% { opacity: 1; }
     18.00% { opacity: 1; }
     18.25% { opacity: 1; }
-    18.50% { opacity: 1; }
-    18.75% { opacity: 1; }
-    19.00% { opacity: 1; }
-    19.25% { opacity: 1; }
-    19.50% { opacity: 1; }
-    19.75% { opacity: 1; }
-    20.00% { opacity: 1; }
-    20.25% { opacity: 1; }
+    18.50% { opacity: 0; }
+    18.75% { opacity: 0; }
+    19.00% { opacity: 0; }
+    19.25% { opacity: 0; }
+    19.50% { opacity: 0; }
+    19.75% { opacity: 0; }
+    20.00% { opacity: 0; }
+    20.25% { opacity: 0; }
     20.50% { opacity: 0; }
     20.75% { opacity: 0; }
     21.00% { opacity: 0; }
@@ -569,14 +569,14 @@
     37.00% { opacity: 0; }
     37.25% { opacity: 0; }
     37.50% { opacity: 0; }
-    37.75% { opacity: 1; }
-    38.00% { opacity: 1; }
-    38.25% { opacity: 1; }
-    38.50% { opacity: 1; }
-    38.75% { opacity: 1; }
-    39.00% { opacity: 1; }
-    39.25% { opacity: 1; }
-    39.50% { opacity: 1; }
+    37.75% { opacity: 0; }
+    38.00% { opacity: 0; }
+    38.25% { opacity: 0; }
+    38.50% { opacity: 0; }
+    38.75% { opacity: 0; }
+    39.00% { opacity: 0; }
+    39.25% { opacity: 0; }
+    39.50% { opacity: 0; }
     39.75% { opacity: 1; }
     40.00% { opacity: 1; }
     40.25% { opacity: 1; }
@@ -651,19 +651,19 @@
     57.50% { opacity: 0; }
     57.75% { opacity: 0; }
     58.00% { opacity: 0; }
-    58.25% { opacity: 1; }
-    58.50% { opacity: 1; }
-    58.75% { opacity: 1; }
-    59.00% { opacity: 1; }
-    59.25% { opacity: 1; }
-    59.50% { opacity: 1; }
-    59.75% { opacity: 1; }
-    60.00% { opacity: 1; }
-    60.25% { opacity: 1; }
-    60.50% { opacity: 1; }
-    60.75% { opacity: 1; }
-    61.00% { opacity: 1; }
-    61.25% { opacity: 1; }
+    58.25% { opacity: 0; }
+    58.50% { opacity: 0; }
+    58.75% { opacity: 0; }
+    59.00% { opacity: 0; }
+    59.25% { opacity: 0; }
+    59.50% { opacity: 0; }
+    59.75% { opacity: 0; }
+    60.00% { opacity: 0; }
+    60.25% { opacity: 0; }
+    60.50% { opacity: 0; }
+    60.75% { opacity: 0; }
+    61.00% { opacity: 0; }
+    61.25% { opacity: 0; }
     61.50% { opacity: 0; }
     61.75% { opacity: 0; }
     62.00% { opacity: 0; }
@@ -700,11 +700,11 @@
     69.75% { opacity: 0; }
     70.00% { opacity: 0; }
     70.25% { opacity: 0; }
-    70.50% { opacity: 0; }
-    70.75% { opacity: 0; }
-    71.00% { opacity: 0; }
-    71.25% { opacity: 0; }
-    71.50% { opacity: 0; }
+    70.50% { opacity: 1; }
+    70.75% { opacity: 1; }
+    71.00% { opacity: 1; }
+    71.25% { opacity: 1; }
+    71.50% { opacity: 1; }
     71.75% { opacity: 0; }
     72.00% { opacity: 0; }
     72.25% { opacity: 0; }
@@ -733,14 +733,14 @@
     78.00% { opacity: 0; }
     78.25% { opacity: 0; }
     78.50% { opacity: 0; }
-    78.75% { opacity: 1; }
-    79.00% { opacity: 1; }
-    79.25% { opacity: 1; }
-    79.50% { opacity: 1; }
-    79.75% { opacity: 1; }
-    80.00% { opacity: 1; }
-    80.25% { opacity: 1; }
-    80.50% { opacity: 1; }
+    78.75% { opacity: 0; }
+    79.00% { opacity: 0; }
+    79.25% { opacity: 0; }
+    79.50% { opacity: 0; }
+    79.75% { opacity: 0; }
+    80.00% { opacity: 0; }
+    80.25% { opacity: 0; }
+    80.50% { opacity: 0; }
     80.75% { opacity: 1; }
     81.00% { opacity: 1; }
     81.25% { opacity: 1; }
@@ -829,36 +829,36 @@
   .oguri-bounce { animation: oguri-bounce 0.15s infinite ease-in-out; }
 </style>
   <rect width="800" height="100" fill="#0d1117" />
-  <rect x="131" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
+  <rect x="131" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
   <rect x="149" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
-  <rect x="167" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="185" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="203" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
-  <rect x="221" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="167" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="185" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="203" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="221" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
   <rect x="239" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="257" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="275" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
-  <rect x="293" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
+  <rect x="257" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="275" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="293" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
   <rect x="311" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
   <rect x="329" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
   <rect x="347" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="365" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="383" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
+  <rect x="365" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
+  <rect x="383" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
   <rect x="401" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
-  <rect x="419" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="437" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="455" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
-  <rect x="473" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
-  <rect x="491" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
+  <rect x="419" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="437" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="455" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="473" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="491" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
   <rect x="509" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
-  <rect x="527" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="545" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="563" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
-  <rect x="581" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
-  <rect x="599" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
-  <rect x="617" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
-  <rect x="635" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
-  <rect x="653" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
+  <rect x="527" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="545" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="563" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
+  <rect x="581" y="72" width="15" height="15" rx="2" ry="2" fill="#161b22" />
+  <rect x="599" y="72" width="15" height="15" rx="2" ry="2" fill="#39d353" />
+  <rect x="617" y="72" width="15" height="15" rx="2" ry="2" fill="#0e4429" />
+  <rect x="635" y="72" width="15" height="15" rx="2" ry="2" fill="#006d32" />
+  <rect x="653" y="72" width="15" height="15" rx="2" ry="2" fill="#26a641" />
   <rect class="black-layer" x="0" y="0" width="800" height="100" fill="#0d1117" />
 
   <g class="oguri-group">

@@ -4,14 +4,8 @@
   <img src="https://raw.githubusercontent.com/mquangpham575/mquangpham575/gh-pages/oguri-run.svg" alt="Oguri Run" />
 </p>
 
-## Basic Info
-
-- 🎯 Goal: Become a DevOps Engineer with expertise in cloud computing and automation
-- 💻 Love figuring out how to make things run smoother, faster, and with less manual work.
-- 🎮 Into modding and customizing stuff - ricing my setup
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=6aa84f&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Live+Larp+Love" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=6aa84f&center=true&vCenter=true&width=700&lines=Vibe+Coder;Live+Larp+Love" alt="Typing Animation" />
 </div>
 
 ---
